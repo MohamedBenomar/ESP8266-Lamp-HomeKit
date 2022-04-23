@@ -1,3 +1,3 @@
 build/open_esplibs_libnet80211//ieee80211_ets.o: \
- /home/pi/esp/esp-open-rtos/open_esplibs/libnet80211/ieee80211_ets.c \
- /home/pi/esp/esp-open-rtos/open_esplibs/include/open_esplibs.h
+ /opt/esp-open-rtos/open_esplibs/libnet80211/ieee80211_ets.c \
+ /opt/esp-open-rtos/open_esplibs/include/open_esplibs.h
